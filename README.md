@@ -12,7 +12,7 @@ This is a custom Suite for [Rainmeter](https://www.rainmeter.net).
 3. Go through the installer.
 
 ### Manual Installation
-1. Clone the Repo to '''Documents\Rainmeter\Skins'''.
+1. Clone the Repo to ```Documents\Rainmeter\Skins```.
 2. Download and install [Frosted Glass](https://forum.rainmeter.net/viewtopic.php?t=23106)
 3. Load the Skin in Rainmeter.
 
