@@ -18,4 +18,4 @@ hidebin=0
 hidefolder1=1
 hidefolder2=1
 hidefolder3=1
-hidecpu=1
+hidecpu=0
