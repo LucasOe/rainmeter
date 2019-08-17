@@ -14,7 +14,7 @@ rainmeterpath=D:\Program Files\Rainmeter\Rainmeter.exe
 
 hidetime=0
 hideday=0
-hidebin=1
+hidebin=0
 hidefolder1=1
 hidefolder2=1
 hidefolder3=1
