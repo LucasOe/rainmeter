@@ -2,16 +2,29 @@
 
 fontname=Fira Code Nerd Font
 fontnamefile=Fira Code Nerd Font Mono
+dockfontsize=11
+lineheight=13
 fontcolor=255,255,255,200
 hovercolor=255,255,255,255
 
-bgcolor=40,40,40,220
-bgcolor1=0,0,0,50
-bgcolor2=40,40,40,80
+backgroundcolor=10,10,10,120
+backgroundcolorheader=30,30,30,120
 
-folderpath=E:\Desktop
+desktoppath=E:\Desktop
 rainmeterpath=D:\Program Files\Rainmeter\Rainmeter.exe
 
+;Dock
+dockheight=30
+iconsize=18
+
+;Locations
+binplace=40
+ramplace=1450
+cpuplace=1550
+dayplace=1680
+clockplace=1860
+
+;Hide Elements
 hidetime=0
 hideday=0
 hidebin=0
