@@ -18,6 +18,7 @@ dockheight=30
 iconsize=18
 
 ;Locations
+songplace=960
 chromeplace=200
 cmderplace=230
 binplace=40
@@ -32,7 +33,4 @@ hidecmder=0
 hidebin=0
 hidetime=0
 hideday=0
-hidefolder1=1
-hidefolder2=1
-hidefolder3=1
 hidecpu=0
