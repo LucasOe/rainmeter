@@ -18,6 +18,7 @@ dockheight=30
 iconsize=18
 
 ;Locations
+chromeplace=200
 binplace=40
 ramplace=1450
 cpuplace=1550
@@ -25,9 +26,10 @@ dayplace=1680
 clockplace=1860
 
 ;Hide Elements
+hidechrome=0
+hidebin=0
 hidetime=0
 hideday=0
-hidebin=0
 hidefolder1=1
 hidefolder2=1
 hidefolder3=1
