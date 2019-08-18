@@ -19,6 +19,7 @@ iconsize=18
 
 ;Locations
 chromeplace=200
+cmderplace=230
 binplace=40
 ramplace=1450
 cpuplace=1550
@@ -27,6 +28,7 @@ clockplace=1860
 
 ;Hide Elements
 hidechrome=0
+hidecmder=0
 hidebin=0
 hidetime=0
 hideday=0
