@@ -8,7 +8,6 @@ fontcolor=255,255,255,200
 hovercolor=255,255,255,255
 
 backgroundcolor=10,10,10,120
-backgroundcolorheader=30,30,30,120
 
 desktoppath=E:\Desktop
 rainmeterpath=D:\Program Files\Rainmeter\Rainmeter.exe
