@@ -1,6 +1,6 @@
 # Rainmeter
 This is a custom Suite for [Rainmeter](https://www.rainmeter.net).
-![Image](https://i.imgur.com/9iEH3VU.jpg)
+![Image](https://i.imgur.com/jiG2vAi.jpg)
 
 **Notes:**
 * Wallpaper by Bock Hofer.
