@@ -18,7 +18,7 @@ dockheight=30
 iconsize=18
 
 ;Locations
-songplace=960
+songplace=900
 chromeplace=200
 cmderplace=230
 binplace=40
