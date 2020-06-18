@@ -1,0 +1,4 @@
+# Don't track content of these folders
+@Resources/icons/*
+Bar/folder.ini
+Changelog.txt
