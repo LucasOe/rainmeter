@@ -8,8 +8,11 @@ hovercolor=255,255,255,255
 
 backgroundcolor=10,10,10,120
 
-desktoppath=C:\Users\lucas\Desktop
-rainmeterpath=D:\Program Files\Rainmeter\Rainmeter.exe
+desktoppath=%USERPROFILE%\Desktop
+
+;Program paths
+chromepath=["C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"]
+cmdrpath=["D:\Program Files\Cmder\Cmder.exe"]
 
 ;Valid values are Blur, Acrylic, and None
 blurtype=Blur
