@@ -1,5 +1,5 @@
 # Don't track content of these folders
-@Resources/icons/*
-!@Resources/icons/
+@Resources/icons/
+!@Resources/icons/.gitkeep
 Bar/folder.ini
 Changelog.txt
