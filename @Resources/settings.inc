@@ -6,7 +6,8 @@ lineheight=13
 fontcolor=255,255,255,200
 hovercolor=255,255,255,255
 
-backgroundcolor=10,10,10,120
+backgroundcolor=40, 44, 52, 255
+secondarycolor=44, 49, 60, 255
 
 desktoppath=%USERPROFILE%\Desktop
 
@@ -15,7 +16,7 @@ chromepath=["C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"]
 cmdrpath=["D:\Program Files\Cmder\Cmder.exe"]
 
 ;Valid values are Blur, Acrylic, and None
-blurtype=Blur
+blurtype=None
 ;Type of information to sort the entries by. Valid values are: Name, Size, Type, Date.
 sorttype=Type
 
@@ -34,7 +35,7 @@ chromeplace=2130
 cmderplace=2100
 
 dayplace=2300
-clockplace=2510
+clockplace=2500
 
 ;Hide Elements
 hidesong=1
