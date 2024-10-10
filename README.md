@@ -1,6 +1,5 @@
 # Rainmeter
-This is a custom Suite for [Rainmeter](https://www.rainmeter.net).
-![Image](https://i.imgur.com/C4lNoP9.jpg)
+This is a custom Suite for Rainmeter.
 
 ### Installation
 1. Download and install the latest [Release](https://github.com/LucasOe/Rainmeter/releases).
